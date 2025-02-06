@@ -7,7 +7,7 @@ tags:
 - [x] task
 ## this is another header
 - wowz
-	- nothis is another embedded note
+	- nothis is another [[Untitled 1|embedded note]]
 
 
 
